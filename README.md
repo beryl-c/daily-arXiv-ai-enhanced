@@ -26,10 +26,10 @@ This innovative tool transforms how you stay updated with arXiv papers by combin
 - Local preference storage for privacy
 - Flexible date range filtering
 
-👉 **[Try it now!](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)** - No installation required
+👉 **[Try it now!](https://beryl-c.github.io/daily-arXiv-ai-enhanced/)** - No installation required
 
 
-
+beryl-c
 https://github.com/user-attachments/assets/b25712a4-fb8d-484f-863d-e8da6922f9d7
 
 
